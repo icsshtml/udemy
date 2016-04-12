@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
 h1, h2, h3, h4, h5, h6 .navbar{
 	margin: 0;	
 }
@@ -9,16 +11,18 @@ body{
 
 .navbar.navbar-inverse {
   border-radius: 0;
-  font-family: "Helvetica Neue", Helvetica;
+  font-family: 'Raleway', sans-serif;
   font-weight: 200;
   box-shadow: 0px 1px 3px #2a2a2a;
   background: url('black.png');
+  margin: 0;
 }
 
 .navbar-inverse a.navbar-brand {
-  font-family: "Helvetica Neue", Helvetica;
-  font-weight: 100;
+  font-family: 'Raleway', sans-serif;
+  font-weight: blod;
   color: white;
+  font-size: 25px;
 }
 
 .hero{
@@ -37,13 +41,13 @@ body{
 }
 
 .frosty h1{
-	font-family: "Helvetica Neue", Helvetica;
+	font-family: 'Raleway', sans-serif;
 	font-weight: 100;
 	text-shadow: rgba(0,0,0,0.95) 1px 1px;
 }
 
 .frosty h2{
-	font-family: "Helvetica Neue", Helvetica;
+	font-family: 'Raleway', sans-serif;
   	font-weight: 200;
   	text-shadow: rgba(0,0,0,0.95) 1px 1px;
 }
@@ -86,7 +90,7 @@ body{
 
 .lesson a{
 	color: white;
-	font-family: "Helvetica Neue",Helvetica;
+	font-family: 'Raleway', sans-serif;
   	font-weight:100;
   	font-size: 15px;
 }
@@ -120,7 +124,7 @@ ul .header {
   background:black;
   color: white;
   margin: 10px;
-  font-family: "Helvetica Neue", Helvetica;
+  font-family: 'Raleway', sans-serif;
   font-weight: 100;
   padding:8px;
   font-size: 15px;
